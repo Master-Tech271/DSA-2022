@@ -1,1 +1,1 @@
-push_back
+output.push_back(str[j]);
